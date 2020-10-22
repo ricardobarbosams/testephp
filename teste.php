@@ -2,6 +2,11 @@
 public function get_things( $x ) {
  
   $l = array();
+  $l = array();
+  $l = array();
+  $l = array();
+  $l = array();
+  $l = array();
  
   for ( $i = 0; $i < count( $x ); $i++ ) {
  
