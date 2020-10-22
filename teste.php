@@ -1,5 +1,5 @@
 <?php 
-public function get_things( $x ) {
+function get_things( $x ) {
  
   $l = array();
   $l = array();
