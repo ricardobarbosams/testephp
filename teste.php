@@ -24,3 +24,4 @@ function get_things( $x ) {
 
 ?>
 BBBBBBBBBBBBB
+CCCCCCCCCCCCC
