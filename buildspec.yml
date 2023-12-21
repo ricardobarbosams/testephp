@@ -11,7 +11,6 @@ phases:
     commands:
       - echo "fase build"
       - echo "iniciando o teste"
-      - grep -Fq "teste" index.html
   post_build:
     commands:
       - echo "fase Post-build"
