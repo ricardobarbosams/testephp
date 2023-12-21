@@ -16,4 +16,5 @@ phases:
       - echo "fase Post-build"
 artifacts:
   files:
-    - '**/*'  
+    - '**/*'
+  name: testphp-$(date +%Y-%m-$d)
